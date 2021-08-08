@@ -18,24 +18,21 @@
     <ClCompile Include="main.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="GeterTree.cpp">
-      <Filter>Исходные файлы</Filter>
-    </ClCompile>
-    <ClCompile Include="GeterTreeVariant.cpp">
-      <Filter>Исходные файлы</Filter>
-    </ClCompile>
-    <ClCompile Include="GeterSerialize.cpp">
+    <ClCompile Include="ArgsHandlers.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="GeterTree.h">
+    <ClInclude Include="ArgsHandlers.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="GeterTreeVariant.h">
+    <ClInclude Include="..\HeterTreeLib\GeterSerialize.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="GeterSerialize.h">
+    <ClInclude Include="..\HeterTreeLib\GeterTree.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="..\HeterTreeLib\GeterTreeVariant.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>
