@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.31515.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "testTree", "testTree\testTree.vcxproj", "{6CEA8FA5-4F3B-4C1D-BAF8-36B9495F30F4}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HeterTreeLib", "HeterTreeLib\HeterTreeLib.vcxproj", "{9C3ABA59-B82B-41C2-B222-F7FA7155567A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{6CEA8FA5-4F3B-4C1D-BAF8-36B9495F30F4}.Release|x64.Build.0 = Release|x64
 		{6CEA8FA5-4F3B-4C1D-BAF8-36B9495F30F4}.Release|x86.ActiveCfg = Release|Win32
 		{6CEA8FA5-4F3B-4C1D-BAF8-36B9495F30F4}.Release|x86.Build.0 = Release|Win32
+		{9C3ABA59-B82B-41C2-B222-F7FA7155567A}.Debug|x64.ActiveCfg = Debug|x64
+		{9C3ABA59-B82B-41C2-B222-F7FA7155567A}.Debug|x64.Build.0 = Debug|x64
+		{9C3ABA59-B82B-41C2-B222-F7FA7155567A}.Debug|x86.ActiveCfg = Debug|Win32
+		{9C3ABA59-B82B-41C2-B222-F7FA7155567A}.Debug|x86.Build.0 = Debug|Win32
+		{9C3ABA59-B82B-41C2-B222-F7FA7155567A}.Release|x64.ActiveCfg = Release|x64
+		{9C3ABA59-B82B-41C2-B222-F7FA7155567A}.Release|x64.Build.0 = Release|x64
+		{9C3ABA59-B82B-41C2-B222-F7FA7155567A}.Release|x86.ActiveCfg = Release|Win32
+		{9C3ABA59-B82B-41C2-B222-F7FA7155567A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
